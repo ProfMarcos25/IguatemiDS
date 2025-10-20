@@ -149,19 +149,20 @@ asso a Passo clonar repositorio no git
 
 #        Comandos Git
 
+## Atualizar pasta iniciando git
+
 ```bash
 git init
 
 
 ```
-```bash
+## Atualizar Arquivos de arcordo com a branch main
 
 ```bash
-
 git pull origin main
 
-
 ```
+## Informa os dados de Login e E-mail para o Git
 
 ```bash
 
@@ -170,6 +171,8 @@ git config --global user.email <E-mail do Auno no git>
 
 ```
 
+## Informa os dados de Login e E-mail para o Git
+
 ```bash
 
 git config --global user.name <Login do Aluno no git>
@@ -177,23 +180,40 @@ git config --global user.name <Login do Aluno no git>
 
 ```
 
+## Informa o status do repositorio
+
 ```bash
 
 git status
 ```
+
+## Adiciona arquivos modificados na Branch temporaria
+
 ```bash
 git add .
 
 ```
+## Commita os arquivos(  Prepara , embala para enviar )
+
 ```bash
 git commit -m ":tada: Commit Inicial"
 
 ```
+
+## Cria Sua Branch para o seu grupo de acordo com a tabela 
+
 ```bash
 git branch -M <A sua Squard>
 
 ```
+## Vincula ao repositorio original 
+
+```bash
 git remote add origin https://github.com/ProfMarcos25/IguatemiDS.git
+
+```
+
+## Envia arquivos para o Repositorio
 
 ```bash
 git push -u origin sua squard
