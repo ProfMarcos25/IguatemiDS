@@ -163,12 +163,20 @@ git pull origin main
 
 ```
 
-
+```bash
 
 git config --global user.email <E-mail do Auno no git>
-git config --global user.name <Login do Aluno no git>
+
 
 ```
+
+```bash
+
+git config --global user.name <Login do Aluno no git>
+
+
+```
+
 ```bash
 
 git status
