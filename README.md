@@ -33,7 +33,7 @@ Antes de começar, cada aluno deve seguir este passo:
 
 
 ```bash
-git clone [https://github.com/ProfMarcos25/IguatemiDS.git](https://github.com/ProfMarcos25/VilaBelads.git)
+git clone https://github.com/ProfMarcos25/IguatemiDS.git
 
 ```
 
