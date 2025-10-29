@@ -130,7 +130,24 @@ Projeto para o 2 DS escola Estadual E.E JARDIM IGUATEMI
 
 
 
-asso a Passo clonar repositorio no git
+|       FUNÇÃO       |                        ALUNO                        |
+|:------------------:|:---------------------------------------------------------:|
+|   SCRUM MASTER     |        JULIANA                                            |
+|   SCRUM MASTER     |        ARTHUR SENSULINE                                   |
+|   SCRUM MASTER     |        GUSTAVO SIMOES                                     |
+|   SCRUM MASTER     |        PEDRO BERGO                                        |
+|   SCRUM MASTER     |        GUILHERME                                          |
+|   SCRUM MASTER     |        DAVI                                               |
+|   SCRUM MASTER     |        YASMIN BRITO                                       |
+|   PRODUCT OWNER    |        MARIA                                              |
+|   PRODUCT OWNER    |        YSABELE                                            |
+|   PRODUCT OWNER    |        RAFAELA                                            |
+|   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
+``
+
+Tare
+
+Passo a Passo clonar repositorio no git
 
 
 [Clique aqui para Passo a Passo clonar repositorio no git](https://www.youtube.com/watch?v=5ctmK6fV1NQ)
