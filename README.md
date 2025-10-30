@@ -44,7 +44,6 @@ git clone https://github.com/ProfMarcos25/IguatemiDS.git
 ```bash
 git config --global user.email <E-mail do Auno no git>
 
-
 ```
 
 
@@ -149,10 +148,13 @@ Projeto para o 2 DS escola Estadual E.E JARDIM IGUATEMI
 |   PRODUCT OWNER    |        MARIA                                              |
 |   PRODUCT OWNER    |        YSABELE                                            |
 |   PRODUCT OWNER    |        RAFAELA                                            |
+|   TECH LEAD        |        IAGO                                               |
+|   TECH LEAD        |        PEDRO                                              |
+|   TECH LEAD        |        ERICK                                              |
 |   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
 ``
 
-Tare
+
 
 Passo a Passo clonar repositorio no git
 
