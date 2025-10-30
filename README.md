@@ -43,6 +43,13 @@ git clone https://github.com/ProfMarcos25/IguatemiDS.git
 
 ```bash
 git config --global user.email <E-mail do Auno no git>
+
+
+```
+
+
+```bash
+
 git config --global user.name <Login do Aluno no git>
 
 ```
