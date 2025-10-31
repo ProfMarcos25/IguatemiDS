@@ -105,7 +105,7 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 | **Squad Quantum**  |                                                           |
 | **Squad Nexus**    |                                                           |
 | **Squad Cipher**   |                                                           |
-| **Squad Vector**   |                                                           |
+| **Squad Vector**   |  Andre N. Fernando P. Pedro A.                                                           |
 | **Squad Nova**     |                                                           |
 | **Squad Pulse**    |                                                           |
 | **Squad Zenith**   |                                                           |
