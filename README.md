@@ -106,7 +106,7 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 | **Squad Nexus**    |                                                           |
 | **Squad Cipher**   |                                                           |
 | **Squad Vector**   |                                                           |
-| **Squad Nova**     |                                                           |
+| **Squad Nova**     |André dos Santos, Gustavo Simões                           |
 | **Squad Pulse**    |                                                           |
 | **Squad Zenith**   |                                                           |
 | **Squad Prism**    |                                                           |
