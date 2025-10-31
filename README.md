@@ -107,7 +107,7 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 | **Squad Cipher**   |                                                           |
 | **Squad Vector**   |                                                           |
 | **Squad Nova**     |                                                           |
-| **Squad Pulse**    |                                                           |
+| **Squad Pulse**    |  MARIA RAFAEL GUSTAVO RAFAELA                             |
 | **Squad Zenith**   |                                                           |
 | **Squad Prism**    |                                                           |
 | **Squad Helix**    |                                                           |
