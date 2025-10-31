@@ -108,7 +108,7 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 | **Squad Vector**   |                                                           |
 | **Squad Nova**     |                                                           |
 | **Squad Pulse**    |                                                           |
-| **Squad Zenith**   |                                                           |
+| **Squad Zenith**   |henrique, pedro henrique costa, pedro henrique bergo       |
 | **Squad Prism**    |                                                           |
 | **Squad Helix**    |                                                           |
 | **Squad Strata**   |                                                           |
