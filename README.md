@@ -105,7 +105,7 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 | **Squad Nova**     |André dos Santos, Gustavo Simões                           |
 | **Squad Vector**   |  Andre N. Fernando P. Pedro A.                            |
 | **Squad Nova**     |                                                           |
-| **Squad Pulse**    |                                                           |
+| **Squad Pulse**    |  MARIA RAFAEL GUSTAVO RAFAELA                             |
 | **Squad Zenith**   |                                                           |
 | **Squad Prism**    |Eduardo A. Guilherme F. Gabriel L.                         |
 | **Squad Zenith**   | henrique, pedro henrique costa, pedro henrique bergo      |
