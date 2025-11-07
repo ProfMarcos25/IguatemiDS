@@ -44,10 +44,6 @@ git clone https://github.com/ProfMarcos25/IguatemiDS.git
 ```bash
 git config --global user.email <E-mail do Auno no git>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> ProfBranch
 ```
 
 
@@ -107,8 +103,10 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 | **Squad Cipher**   |                                                           |
 | **Squad Vector**   |                                                           |
 | **Squad Nova**     |André dos Santos, Gustavo Simões                           |
+| **Squad Vector**   |  Andre N. Fernando P. Pedro A.                            |
+| **Squad Nova**     |                                                           |
 | **Squad Pulse**    |                                                           |
-| **Squad Zenith**   |                                                           |
+| **Squad Zenith**   | henrique, pedro henrique costa, pedro henrique bergo      |
 | **Squad Prism**    |                                                           |
 | **Squad Helix**    |                                                           |
 | **Squad Strata**   |                                                           |
@@ -152,20 +150,11 @@ Projeto para o 2 DS escola Estadual E.E JARDIM IGUATEMI
 |   PRODUCT OWNER    |        MARIA                                              |
 |   PRODUCT OWNER    |        YSABELE                                            |
 |   PRODUCT OWNER    |        RAFAELA                                            |
-<<<<<<< HEAD
 |   TECH LEAD        |        IAGO                                               |
 |   TECH LEAD        |        PEDRO                                              |
 |   TECH LEAD        |        ERICK                                              |
 |   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
 ``
-
-
-=======
-|   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
-``
-
-Tare
->>>>>>> ProfBranch
 
 Passo a Passo clonar repositorio no git
 
