@@ -143,7 +143,7 @@ Projeto para o 2 DS escola Estadual E.E JARDIM IGUATEMI
 |       FUNÇÃO       |                        ALUNO                        |
 |:------------------:|:---------------------------------------------------------:|
 |   SCRUM MASTER     |        JULIANA                                            |
-|   SCRUM MASTER     |        ARTHUR SENSULINE                                   |
+|   SCRUM MASTER     |        ARTHUR SENSULINI                                   |
 |   SCRUM MASTER     |        GUSTAVO SIMOES                                     |
 |   SCRUM MASTER     |        PEDRO BERGO                                        |
 |   SCRUM MASTER     |        GUILHERME                                          |
@@ -151,21 +151,17 @@ Projeto para o 2 DS escola Estadual E.E JARDIM IGUATEMI
 |   SCRUM MASTER     |        YASMIN BRITO                                       |
 |   PRODUCT OWNER    |        MARIA                                              |
 |   PRODUCT OWNER    |        YSABELE                                            |
-|   PRODUCT OWNER    |        RAFAELA                                            |
-<<<<<<< HEAD
+|   PRODUCT OWNER    |        RAFAELLA                                           |
 |   TECH LEAD        |        IAGO                                               |
-|   TECH LEAD        |        PEDRO                                              |
+|   TECH LEAD        |        FERNANDO P                                         |
 |   TECH LEAD        |        ERICK                                              |
 |   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
 ``
 
-
-=======
 |   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
 ``
 
 Tare
->>>>>>> ProfBranch
 
 Passo a Passo clonar repositorio no git
 
