@@ -44,10 +44,6 @@ git clone https://github.com/ProfMarcos25/IguatemiDS.git
 ```bash
 git config --global user.email <E-mail do Auno no git>
 
-<<<<<<< HEAD
-=======
-
->>>>>>> ProfBranch
 ```
 
 
@@ -99,28 +95,21 @@ Após a aprovação, o professor fará o "merge", que é a união do seu código
 
 Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em poucos minutos, suas alterações estarão visíveis no site oficial!
 
-
 |       Squad        |                        Integrantes                        |
 |:------------------:|:---------------------------------------------------------:|
-| **Squad Quantum**  |                                                           |
-| **Squad Nexus**    |                                                           |
-| **Squad Cipher**   |                                                           |
-| **Squad Vector**   |                                                           |
-| **Squad Nova**     |                                                           |
-| **Squad Pulse**    |                                                           |
-| **Squad Zenith**   |                                                           |
-| **Squad Prism**    |                                                           |
-| **Squad Helix**    |                                                           |
-| **Squad Strata**   |                                                           |
-| **Squad Vortex**   |                                                           |
-| **Squad Aether**   |                                                           |
-| **Squad Flux**     |                                                           |
-| **Squad Orion**    |                                                           |
-| **Squad Echo**     |                                                           |
-| **Squad Nebula**   |                                                           |
+| **Squad Quantum**  | EDUARDO G. JULIANA E LIVIA                                |
+| **Squad Nexus**    | ERICK E PEDRO LIMA                                        |
+| **Squad Cipher**   | Arthur S. Fernando F. e Vinicius R.                       |
+| **Squad Vector**   | Andre N. Fernando P. Pedro A.                             |
+| **Squad Nova**     | André dos Santos, Gustavo Simões                          |
+| **Squad Pulse**    | MARIA RAFAEL GUSTAVO RAFAELA                              |
+| **Squad Zenith**   | Henrique, pedro henrique costa, pedro henrique bergo      |
+| **Squad Prism**    | Eduardo A. Guilherme F. Gabriel L.                        |
+| **Squad Helix**    | COMMIT - 1 Vitor, Isaque, Gabriel C.                      |
+| **Squad Strata**   | COMMIT - 1 Vinicius,amigo do Davi, e Davi  Mariani        |
+| **Squad Flux**     |  Samuel IAGO YSABELE E YASMIN                             |
+
 ``
-
-
 
 
 ## Backlog - ATIVIDADES PARA SEREM DESENVOLVIDAS 
@@ -151,6 +140,7 @@ Projeto para o 2 DS escola Estadual E.E JARDIM IGUATEMI
 |   SCRUM MASTER     |        YASMIN BRITO                                       |
 |   PRODUCT OWNER    |        MARIA                                              |
 |   PRODUCT OWNER    |        YSABELE                                            |
+|   PRODUCT OWNER    |        RAFAELA                                            |
 |   PRODUCT OWNER    |        RAFAELLA                                           |
 |   TECH LEAD        |        IAGO                                               |
 |   TECH LEAD        |        FERNANDO P                                         |
@@ -158,10 +148,13 @@ Projeto para o 2 DS escola Estadual E.E JARDIM IGUATEMI
 |   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
 ``
 
+
+=======
 |   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
 ``
 
 Tare
+>>>>>>> ProfBranch
 
 Passo a Passo clonar repositorio no git
 
