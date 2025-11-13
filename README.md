@@ -97,17 +97,22 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 
 |       Squad        |                        Integrantes                        |
 |:------------------:|:---------------------------------------------------------:|
-| **Squad Quantum**  | EDUARDO G. JULIANA E LIVIA                                |
-| **Squad Nexus**    | ERICK E PEDRO LIMA                                        |
-| **Squad Cipher**   | Arthur S. Fernando F. e Vinicius R.                       |
+| **Squad Quantum**  | EDUARDO G. JULIANA E LIVIA                                | T01 - Paleta de Cores e Fontes
+| **Squad Nexus**    | ERICK E PEDRO LIMA                                        | T01 - Paleta de Cores e Fontes
+| **Squad Cipher**   | Arthur S. Fernando F. e Vinicius R.                       |T02 - Header Interativo
 | **Squad Vector**   | Andre N. Fernando P. Pedro A.                             |
 | **Squad Nova**     | André dos Santos, Gustavo Simões                          |
 | **Squad Pulse**    | MARIA RAFAEL GUSTAVO RAFAELA                              |
-| **Squad Zenith**   | Henrique, pedro henrique costa, pedro henrique bergo      |
-| **Squad Prism**    | Eduardo A. Guilherme F. Gabriel L.                        |
-| **Squad Helix**    | COMMIT - 1 Vitor, Isaque, Gabriel C.                      |
-| **Squad Strata**   | COMMIT - 1 Vinicius,amigo do Davi, e Davi  Mariani        |
-| **Squad Flux**     |  Samuel IAGO YSABELE E YASMIN                             |
+| **Squad Zenith**   | Henrique, pedro henrique costa, pedro henrique bergo      | T02 - Header Interativo
+| **Squad Prism**    | Eduardo A. Guilherme F. Gabriel L.                        | T03 - Cards de Destaque
+
+| **Squad Helix**    | COMMIT - 1 Vitor, Isaque, Gabriel C.                      | T03 - Cards de Destaque
+  
+| **Squad Strata**   | COMMIT - 1 Vinicius,amigo do Davi, e Davi  Mariani        | T04 - Efeitos nos Projetos
+
+| **Squad Flux**     |  Samuel IAGO YSABELE E YASMIN                             | T08 - Botão "Voltar ao Topo"
+
+
 
 ``
 
