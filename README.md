@@ -94,25 +94,19 @@ Outros colegas ou o professor podem sugerir alterações.
 Após a aprovação, o professor fará o "merge", que é a união do seu código com a branch principal main.
 
 Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em poucos minutos, suas alterações estarão visíveis no site oficial!
-
-|       Squad        |                        Integrantes                        |
-|:------------------:|:---------------------------------------------------------:|
-| **Squad Quantum**  | EDUARDO G. JULIANA E LIVIA                                | T01 - Paleta de Cores e Fontes
-| **Squad Nexus**    | ERICK E PEDRO LIMA                                        | T01 - Paleta de Cores e Fontes
-| **Squad Cipher**   | Arthur S. Fernando F. e Vinicius R.                       |T02 - Header Interativo
-| **Squad Vector**   | Andre N. Fernando P. Pedro A.                             |
-| **Squad Nova**     | André dos Santos, Gustavo Simões                          |
-| **Squad Pulse**    | MARIA RAFAEL GUSTAVO RAFAELA                              |
-| **Squad Zenith**   | Henrique, pedro henrique costa, pedro henrique bergo      | T02 - Header Interativo
-| **Squad Prism**    | Eduardo A. Guilherme F. Gabriel L.                        | T03 - Cards de Destaque
-
-| **Squad Helix**    | COMMIT - 1 Vitor, Isaque, Gabriel C.                      | T03 - Cards de Destaque
-  
-| **Squad Strata**   | COMMIT - 1 Vinicius,amigo do Davi, e Davi  Mariani        | T04 - Efeitos nos Projetos
-
-| **Squad Flux**     |  Samuel IAGO YSABELE E YASMIN                             | T08 - Botão "Voltar ao Topo"
-
-
+|       Squad        |                        Integrantes                        |                Tarefa                |
+|:------------------:|:---------------------------------------------------------:|:------------------------------------:|
+| **Squad Quantum**  | EDUARDO G., JULIANA, LIVIA                               | T01 - Paleta de Cores e Fontes      |
+| **Squad Nexus**    | ERICK, PEDRO LIMA                                        | T01 - Paleta de Cores e Fontes      |
+| **Squad Cipher**   | Arthur S., Fernando F., Vinicius R.                      | T02 - Header Interativo             |
+| **Squad Vector**   | Andre N., Fernando P., Pedro A.                          |                                      |
+| **Squad Nova**     | André dos Santos, Gustavo Simões                         |                                      |
+| **Squad Pulse**    | MARIA, RAFAEL, GUSTAVO, RAFAELA                          |                                      |
+| **Squad Zenith**   | Henrique, Pedro Henrique Costa, Pedro Henrique Bergo     | T02 - Header Interativo             |
+| **Squad Prism**    | Eduardo A., Guilherme F., Gabriel L.                     | T03 - Cards de Destaque             |
+| **Squad Helix**    | COMMIT - 1 Vitor, Isaque, Gabriel C.                     | T03 - Cards de Destaque             |
+| **Squad Strata**   | COMMIT - 1 Vinicius, Amigo do Davi, Davi Mariani         | T04 - Efeitos nos Projetos          |
+| **Squad Flux**     | Samuel, Iago, Ysabele, Yasmin                            | T08 - Botão "Voltar ao Topo"        |
 
 ``
 
