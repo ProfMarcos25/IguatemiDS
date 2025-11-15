@@ -231,3 +231,23 @@ h2 {
 .site-footer-final .endereco {
     margin-bottom: 10px;
 }
+
+.container {
+    display: flex;
+    flex-direction: row; /* Layout padrão */
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column; /* Layout para telas menores */
+
+      @media (max-width: 900px) {
+        .menu {
+          width: 100%; /* Altera a largura do menu em telas pequenas */
+        }
+      }
+      img, video {
+        max-width: 100%;
+        height: auto;
+      }
+      
