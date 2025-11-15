@@ -143,7 +143,7 @@ Projeto para o 2 DS escola Estadual E.E JARDIM IGUATEMI
 |       FUNÇÃO       |                        ALUNO                        |
 |:------------------:|:---------------------------------------------------------:|
 |   SCRUM MASTER     |        JULIANA                                            |
-|   SCRUM MASTER     |        ARTHUR SENSULINE                                   |
+|   SCRUM MASTER     |        ARTHUR SENSULINI                                   |
 |   SCRUM MASTER     |        GUSTAVO SIMOES                                     |
 |   SCRUM MASTER     |        PEDRO BERGO                                        |
 |   SCRUM MASTER     |        GUILHERME                                          |
