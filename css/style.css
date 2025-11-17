@@ -232,6 +232,7 @@ h2 {
     margin-bottom: 10px;
 }
 
+
 .container {
     display: flex;
     flex-direction: row; /* Layout padrão */
@@ -251,3 +252,23 @@ h2 {
         height: auto;
       }
       
+
+#btnVoltarAoTopo {
+        bottom: 20px;
+        right: 300px;  
+        z-index: 99; 
+        border: none;
+        outline: none;
+        background-color: darkgrey; 
+        color: white; 
+        cursor: pointer;
+        padding: 9px;
+        border-radius: 100px;
+        font-size: 14px;
+        display: block;
+        margin-left: 500px;
+        font-family: 'Montserrat', sans-serif;
+        font-weight: bold;
+        scroll-behavior: smooth;
+    }
+
