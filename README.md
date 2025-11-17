@@ -4,7 +4,7 @@
 
 Bem-vindos ao repositório oficial do nosso site! Este não é apenas um projeto para criar uma página web, mas uma jornada para aprendermos a trabalhar como times de desenvolvimento de verdade, utilizando ferramentas e metodologias do mercado.
 
-### ✨ [Clique aqui para ver o site no ar!](https://profmarcos25.github.io/iguatemiDS/) ✨
+### ✨ [Clique aqui para ver o site no ar!](https://profmarcos25.github.io/IguatemiDS/) ✨
 
 ---
 
@@ -44,14 +44,20 @@ git clone https://github.com/ProfMarcos25/IguatemiDS.git
 ```bash
 git config --global user.email <E-mail do Auno no git>
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> a8df506a5989d637fef7553ff50a5f05fe05d8dd
 
 ```
 
 
 ```bash
 
+<<<<<<< HEAD
 >>>>>>> 841a225 (:tada: Atualização Index e css)
+=======
+>>>>>>> a8df506a5989d637fef7553ff50a5f05fe05d8dd
 git config --global user.name <Login do Aluno no git>
 
 ```
@@ -97,29 +103,22 @@ Outros colegas ou o professor podem sugerir alterações.
 Após a aprovação, o professor fará o "merge", que é a união do seu código com a branch principal main.
 
 Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em poucos minutos, suas alterações estarão visíveis no site oficial!
+|       Squad        |                        Integrantes                        |                Tarefa                |
+|:------------------:|:---------------------------------------------------------:|:------------------------------------:|
+| **Squad Quantum**  | EDUARDO G., JULIANA, LIVIA                               | T01 - Paleta de Cores e Fontes      |
+| **Squad Nexus**    | ERICK, PEDRO LIMA                                        | T01 - Paleta de Cores e Fontes      |
+| **Squad Cipher**   | Arthur S., Fernando F., Vinicius R.                      | T02 - Header Interativo             |
+| **Squad Vector**   | Andre N., Fernando P., Pedro A.                          |                                      |
+| **Squad Nova**     | André dos Santos, Gustavo Simões                         |                                      |
+| **Squad Pulse**    | MARIA, RAFAEL, GUSTAVO, RAFAELA                          |                                      |
+| **Squad Zenith**   | Henrique, Pedro Henrique Costa, Pedro Henrique Bergo     | T02 - Header Interativo             |
+| **Squad Prism**    | Eduardo A., Guilherme F., Gabriel L.                     | T03 - Cards de Destaque             |
+| **Squad Helix**    | COMMIT - 1 Vitor, Isaque, Gabriel C.                     | T03 - Cards de Destaque             |
+| **Squad Strata**   | COMMIT - 1 Vinicius, Amigo do Davi, Davi Mariani         | T04 - Efeitos nos Projetos          |
+| **Squad Flux**     | Samuel, Iago, Ysabele, Yasmin                            | T08 - Botão "Voltar ao Topo"        |
 
 
-|       Squad        |                        Integrantes                        |
-|:------------------:|:---------------------------------------------------------:|
-| **Squad Quantum**  |                                                           |
-| **Squad Nexus**    |                                                           |
-| **Squad Cipher**   |                                                           |
-| **Squad Vector**   |                                                           |
-| **Squad Nova**     |                                                           |
-| **Squad Pulse**    |                                                           |
-| **Squad Zenith**   |                                                           |
-| **Squad Prism**    |                                                           |
-| **Squad Helix**    |                                                           |
-| **Squad Strata**   |                                                           |
-| **Squad Vortex**   |                                                           |
-| **Squad Aether**   |                                                           |
-| **Squad Flux**     |                                                           |
-| **Squad Orion**    |                                                           |
-| **Squad Echo**     |                                                           |
-| **Squad Nebula**   |                                                           |
 ``
-
-
 
 
 ## Backlog - ATIVIDADES PARA SEREM DESENVOLVIDAS 
@@ -140,12 +139,19 @@ Projeto para o 2 DS escola Estadual E.E JARDIM IGUATEMI
 
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 asso a Passo clonar repositorio no git
 =======
 |       FUNÇÃO       |                        ALUNO                        |
 |:------------------:|:---------------------------------------------------------:|
 |   SCRUM MASTER     |        JULIANA                                            |
 |   SCRUM MASTER     |        ARTHUR SENSULINE                                   |
+=======
+|       FUNÇÃO       |                        ALUNO                        |
+|:------------------:|:---------------------------------------------------------:|
+|   SCRUM MASTER     |        JULIANA                                            |
+|   SCRUM MASTER     |        ARTHUR SENSULINI                                   |
+>>>>>>> a8df506a5989d637fef7553ff50a5f05fe05d8dd
 |   SCRUM MASTER     |        GUSTAVO SIMOES                                     |
 |   SCRUM MASTER     |        PEDRO BERGO                                        |
 |   SCRUM MASTER     |        GUILHERME                                          |
@@ -154,16 +160,33 @@ asso a Passo clonar repositorio no git
 |   PRODUCT OWNER    |        MARIA                                              |
 |   PRODUCT OWNER    |        YSABELE                                            |
 |   PRODUCT OWNER    |        RAFAELA                                            |
+<<<<<<< HEAD
 |   TECH LEAD        |        IAGO                                               |
 |   TECH LEAD        |        PEDRO                                              |
+=======
+|   PRODUCT OWNER    |        RAFAELLA                                           |
+|   TECH LEAD        |        IAGO                                               |
+|   TECH LEAD        |        FERNANDO P                                         |
+>>>>>>> a8df506a5989d637fef7553ff50a5f05fe05d8dd
 |   TECH LEAD        |        ERICK                                              |
 |   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
 ``
 
 
+<<<<<<< HEAD
 
 Passo a Passo clonar repositorio no git
 >>>>>>> 841a225 (:tada: Atualização Index e css)
+=======
+=======
+|   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
+``
+
+Tare
+
+
+Passo a Passo clonar repositorio no git
+>>>>>>> a8df506a5989d637fef7553ff50a5f05fe05d8dd
 
 
 [Clique aqui para Passo a Passo clonar repositorio no git](https://www.youtube.com/watch?v=5ctmK6fV1NQ)
