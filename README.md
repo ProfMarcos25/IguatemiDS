@@ -43,6 +43,15 @@ git clone https://github.com/ProfMarcos25/IguatemiDS.git
 
 ```bash
 git config --global user.email <E-mail do Auno no git>
+<<<<<<< HEAD
+=======
+
+```
+
+
+```bash
+
+>>>>>>> 841a225 (:tada: Atualização Index e css)
 git config --global user.name <Login do Aluno no git>
 
 ```
@@ -130,7 +139,31 @@ Projeto para o 2 DS escola Estadual E.E JARDIM IGUATEMI
 
 
 
+<<<<<<< HEAD
 asso a Passo clonar repositorio no git
+=======
+|       FUNÇÃO       |                        ALUNO                        |
+|:------------------:|:---------------------------------------------------------:|
+|   SCRUM MASTER     |        JULIANA                                            |
+|   SCRUM MASTER     |        ARTHUR SENSULINE                                   |
+|   SCRUM MASTER     |        GUSTAVO SIMOES                                     |
+|   SCRUM MASTER     |        PEDRO BERGO                                        |
+|   SCRUM MASTER     |        GUILHERME                                          |
+|   SCRUM MASTER     |        DAVI                                               |
+|   SCRUM MASTER     |        YASMIN BRITO                                       |
+|   PRODUCT OWNER    |        MARIA                                              |
+|   PRODUCT OWNER    |        YSABELE                                            |
+|   PRODUCT OWNER    |        RAFAELA                                            |
+|   TECH LEAD        |        IAGO                                               |
+|   TECH LEAD        |        PEDRO                                              |
+|   TECH LEAD        |        ERICK                                              |
+|   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
+``
+
+
+
+Passo a Passo clonar repositorio no git
+>>>>>>> 841a225 (:tada: Atualização Index e css)
 
 
 [Clique aqui para Passo a Passo clonar repositorio no git](https://www.youtube.com/watch?v=5ctmK6fV1NQ)
