@@ -232,6 +232,27 @@ h2 {
     margin-bottom: 10px;
 }
 
+
+.container {
+    display: flex;
+    flex-direction: row; /* Layout padrão */
+  }
+  
+  @media (max-width: 768px) {
+    .container {
+      flex-direction: column; /* Layout para telas menores */
+
+      @media (max-width: 900px) {
+        .menu {
+          width: 100%; /* Altera a largura do menu em telas pequenas */
+        }
+      }
+      img, video {
+        max-width: 100%;
+        height: auto;
+      }
+      
+
 #btnVoltarAoTopo {
         bottom: 20px;
         right: 300px;  
@@ -250,3 +271,4 @@ h2 {
         font-weight: bold;
         scroll-behavior: smooth;
     }
+
