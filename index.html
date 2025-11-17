@@ -197,6 +197,25 @@
         </div>
         <button onclick="scrollToTop()" id="btnVoltarAoTopo" title="Voltar ao topo">Topo</button>
     </footer>
-  
+    <script>
+        var prevScrollPos = window.pageYOffset;
+        var header = document.getElementById("site-header");
+        var headerHeight = header.offsetHeight; // Obtém a altura do header
+
+        window.onscroll = function() {
+            var currentScrollPos = window.pageYOffset;
+
+            if (prevScrollPos > currentScrollPos) {
+                // Rolando para cima (mostra o header)
+                header.style.top = "0";
+            } else {
+                // Rolando para baixo (esconde o header)
+                // Move para cima pela altura do header + um pouco mais, se necessário
+                header.style.top = `-${headerHeight + 1}px`;
+            }
+
+            prevScrollPos = currentScrollPos;
+        };
+    </script>
 </body>
 </html>
