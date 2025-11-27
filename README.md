@@ -108,6 +108,7 @@ Momento Mágico! ✨ Após o merge, a automação (CI/CD) será acionada e, em p
 | **Squad Strata**   | COMMIT - 1 Vinicius, Amigo do Davi, Davi Mariani         | T04 - Efeitos nos Projetos          |
 | **Squad Flux**     | Samuel, Iago, Ysabele, Yasmin                            | T08 - Botão "Voltar ao Topo"        |
 
+
 ``
 
 
@@ -153,7 +154,7 @@ Projeto para o 2 DS escola Estadual E.E JARDIM IGUATEMI
 ``
 
 Tare
->>>>>>> ProfBranch
+
 
 Passo a Passo clonar repositorio no git
 
