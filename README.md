@@ -43,12 +43,21 @@ git clone https://github.com/ProfMarcos25/IguatemiDS.git
 
 ```bash
 git config --global user.email <E-mail do Auno no git>
+<<<<<<< HEAD
+<<<<<<< HEAD
+=======
+=======
+>>>>>>> a8df506a5989d637fef7553ff50a5f05fe05d8dd
 
 ```
 
 
 ```bash
 
+<<<<<<< HEAD
+>>>>>>> 841a225 (:tada: Atualização Index e css)
+=======
+>>>>>>> a8df506a5989d637fef7553ff50a5f05fe05d8dd
 git config --global user.name <Login do Aluno no git>
 
 ```
@@ -129,10 +138,20 @@ Projeto para o 2 DS escola Estadual E.E JARDIM IGUATEMI
 
 
 
+<<<<<<< HEAD
+<<<<<<< HEAD
+asso a Passo clonar repositorio no git
+=======
+|       FUNÇÃO       |                        ALUNO                        |
+|:------------------:|:---------------------------------------------------------:|
+|   SCRUM MASTER     |        JULIANA                                            |
+|   SCRUM MASTER     |        ARTHUR SENSULINE                                   |
+=======
 |       FUNÇÃO       |                        ALUNO                        |
 |:------------------:|:---------------------------------------------------------:|
 |   SCRUM MASTER     |        JULIANA                                            |
 |   SCRUM MASTER     |        ARTHUR SENSULINI                                   |
+>>>>>>> a8df506a5989d637fef7553ff50a5f05fe05d8dd
 |   SCRUM MASTER     |        GUSTAVO SIMOES                                     |
 |   SCRUM MASTER     |        PEDRO BERGO                                        |
 |   SCRUM MASTER     |        GUILHERME                                          |
@@ -141,14 +160,24 @@ Projeto para o 2 DS escola Estadual E.E JARDIM IGUATEMI
 |   PRODUCT OWNER    |        MARIA                                              |
 |   PRODUCT OWNER    |        YSABELE                                            |
 |   PRODUCT OWNER    |        RAFAELA                                            |
+<<<<<<< HEAD
+|   TECH LEAD        |        IAGO                                               |
+|   TECH LEAD        |        PEDRO                                              |
+=======
 |   PRODUCT OWNER    |        RAFAELLA                                           |
 |   TECH LEAD        |        IAGO                                               |
 |   TECH LEAD        |        FERNANDO P                                         |
+>>>>>>> a8df506a5989d637fef7553ff50a5f05fe05d8dd
 |   TECH LEAD        |        ERICK                                              |
 |   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
 ``
 
 
+<<<<<<< HEAD
+
+Passo a Passo clonar repositorio no git
+>>>>>>> 841a225 (:tada: Atualização Index e css)
+=======
 =======
 |   DESENVOLVEDORES  |        TODOS OS ALUNOS                                    |
 ``
@@ -157,6 +186,7 @@ Tare
 
 
 Passo a Passo clonar repositorio no git
+>>>>>>> a8df506a5989d637fef7553ff50a5f05fe05d8dd
 
 
 [Clique aqui para Passo a Passo clonar repositorio no git](https://www.youtube.com/watch?v=5ctmK6fV1NQ)
